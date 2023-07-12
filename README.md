@@ -1,4 +1,4 @@
-# hyrule-jobs
+# jobs
 
 ## Project setup
 ```
